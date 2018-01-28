@@ -1,0 +1,62 @@
+#main {
+width: 75%;
+max-width: 950px;
+margin: auto;
+padding: 10px;
+background-color: rgb(147, 81, 22);
+border:black;
+    border-top: dotted white;
+    border-right-style: solid;
+    border-bottom:dotted white;
+    border-left-style: solid;
+}
+
+#div {
+ padding: 0px 2px 0px 5px;
+}
+
+
+#divWelcome{
+	width: 75%;
+padding: 20px;
+background-color: rgb(215, 189, 93);
+border:white;
+    border-top: dotted;
+    border-right-style: solid;
+    border-bottom: dotted;
+    border-left-style: solid;
+    align:center; 
+}
+
+li{
+	font-size:140%;
+}
+
+p.intro{
+	font-family: georgia;
+	font-size: 100%;
+	color:rgb(246, 221, 204);
+}
+p.next{
+	font-family: georgia;
+	font-size: 120%;
+	color:black;
+	text-align: center;
+}
+
+input {font-family:georgia;
+font-size: 150%;}
+
+h1{text-align: center;
+color: white;
+text-shadow: 3px 2px gray;}
+
+h2{
+	font-size:200%;
+	text-shadow: 3px 2px gray;
+	text-align: center;
+}
+
+#divEnd{
+ padding: 0px 10px 0px 5px;
+}
