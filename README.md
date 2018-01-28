@@ -4,12 +4,12 @@
 
 This is an online interactive quiz that tests the user's knowledge on Java. 
 The user will first input their display name before being entering a new page with the list of questions. If the inputted name is blank, the user will be taken to a new page where they will be asked to once again, input a name until they have done so.
-Proceeding to the list of question, there will be ____ questions with radio buttons for the user to choose their answer. 
+Proceeding to the list of question, there will be 15 questions with radio buttons for the user to choose their answer. 
 After submitting, the last page will display whether or not the user passed the test, the percentage they recieved, and a line of advice on how to improve their knowledge regarding the language Java.
 
 ### What is it used for?
 
-This is a good quiz to utilize for those who are preparing for an interview as it is composed of technical questions. It is also beneficial for users who want to improve upon their knowledge in Java.
+This is a good resource to utilize for those who are preparing for an interview as it is composed of technical questions. It is also beneficial for users who want to improve upon their knowledge in Java.
 
 ## What languages are utilized
 
