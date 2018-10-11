@@ -3,7 +3,7 @@
 ## What does it do?
 
 This is an online interactive quiz that tests the user's knowledge on Java. 
-The user will first input their display name before being entering a new page with the list of questions. If the inputted name is blank, the user will be taken to a new page where they will be asked to once again, input a name until they have done so.
+The user will first input their display name before entering a new page with the list of questions. If the name input section is blank, the user will be taken to a new page where they will be asked to once again, input a name until they have done so.
 Proceeding to the list of question, there will be 15 questions with radio buttons for the user to choose their answer. 
 After submitting, the last page will display whether or not the user passed the test, the percentage they recieved, and a line of advice on how to improve their knowledge regarding the language Java.
 
